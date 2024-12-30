@@ -2,11 +2,11 @@
   "tokens": [
     {
       "chainId": 103,
-      "address": "UojbfTyi9GZCzG91Y167Bi7Lmn6J7vnMb3VfBbWdg7J",
+      "address": "cv76p14XuWcdfwdze4V6LqAHrp686rsFXdedbjwotZN",
       "symbol": "MTK",
       "name": "MyToken",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/rollingdog/token-list/main/assets/test-coin.png",
+      "logoURI": "https://raw.githubusercontent.com/rollingdog/token-list-dev/main/assets/test-coin.png",
       "tags": ["utility-token"]
     }
   ]
